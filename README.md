@@ -4,7 +4,7 @@
 
 ## Features :
 - 2 people can connect and chat with each other.
-- Max number of rooms server can handle at a time is 500.
+- Max number of rooms server can handle at a time is 500. So, total 1000 users at once
 - If a room is full, the user will be redirected to a new room.
 - If a user leaves the room, the other user will be redirected to a new room.
 
